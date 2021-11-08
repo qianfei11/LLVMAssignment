@@ -1,0 +1,6 @@
+/Users/assassinq/CLionProjects/LLVMAssignment/cmake-build-debug/CMakeFiles/llvmassignment.dir
+/Users/assassinq/CLionProjects/LLVMAssignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/assassinq/CLionProjects/LLVMAssignment/cmake-build-debug/CMakeFiles/acc_gen.dir
+/Users/assassinq/CLionProjects/LLVMAssignment/cmake-build-debug/CMakeFiles/omp_gen.dir
+/Users/assassinq/CLionProjects/LLVMAssignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/assassinq/CLionProjects/LLVMAssignment/cmake-build-debug/CMakeFiles/intrinsics_gen.dir
